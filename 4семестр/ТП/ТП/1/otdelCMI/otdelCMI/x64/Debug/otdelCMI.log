@@ -1,8 +1,8 @@
 ﻿  FileNews.cpp
-C:\Users\maks\Desktop\ТП\1\otdelCMI\otdelCMI\FileNews.cpp(22,2): warning C4091: static : пропускается слева от "News", когда ни одна переменная не объявлена
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\1\otdelCMI\otdelCMI\FileNews.cpp(22,2): warning C4091: static : пропускается слева от "News", когда ни одна переменная не объявлена
   Menu.cpp
-C:\Users\maks\Desktop\ТП\1\otdelCMI\otdelCMI\FileNews.cpp(22,2): warning C4091: static : пропускается слева от "News", когда ни одна переменная не объявлена
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\1\otdelCMI\otdelCMI\FileNews.cpp(22,2): warning C4091: static : пропускается слева от "News", когда ни одна переменная не объявлена
   otdelCMI.cpp
-C:\Users\maks\Desktop\ТП\1\otdelCMI\otdelCMI\FileNews.cpp(22,2): warning C4091: static : пропускается слева от "News", когда ни одна переменная не объявлена
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\1\otdelCMI\otdelCMI\FileNews.cpp(22,2): warning C4091: static : пропускается слева от "News", когда ни одна переменная не объявлена
   Создание кода...
-  otdelCMI.vcxproj -> C:\Users\maks\Desktop\ТП\1\otdelCMI\x64\Debug\otdelCMI.exe
+  otdelCMI.vcxproj -> C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\1\otdelCMI\x64\Debug\otdelCMI.exe

@@ -2,16 +2,11 @@
 #include <windows.h>
 #include <iostream>
 #include "FileNews.cpp"
-
-
 void menuBxodAdmin();
 void ViewNewsName();
 void menuMain();
 void ViewNewsFull(string index);
-
 static int client_admin = 0;
-
-
 static void menuBxodAdmin() {
 	system("cls");
 	std::string login;
@@ -54,14 +49,14 @@ static void ViewNewsFull(string index) {
 	loadFileFullIndex(index);
 	std::cout << "0 - Ќазад\n";
 	if (client_admin == 1) {
-		std::cout << "1 - удалить запись\n";
+		std::cout << "- удалить запись\n";
 	}
 	string index_vvod;
 	std::cin >> index_vvod;
 	if (index_vvod == "0") {
 		ViewNewsName();
 	}
-	if (index_vvod == "1" && client_admin == 1) {
+	if (index_vvod == "-" && client_admin == 1) {
 		DeleteFileIndex(index);
 		ViewNewsName();
 	}
