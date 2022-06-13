@@ -1,0 +1,15 @@
+﻿  File.cpp
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(27,2): warning C4091: static : пропускается слева от "Reis", когда ни одна переменная не объявлена
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(84,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(86,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  libs.cpp
+  Menu.cpp
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(27,2): warning C4091: static : пропускается слева от "Reis", когда ни одна переменная не объявлена
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(84,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(86,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  praktik2.cpp
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(27,2): warning C4091: static : пропускается слева от "Reis", когда ни одна переменная не объявлена
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(84,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(86,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
+  praktik2.vcxproj -> C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\x64\Debug\praktik2.exe
