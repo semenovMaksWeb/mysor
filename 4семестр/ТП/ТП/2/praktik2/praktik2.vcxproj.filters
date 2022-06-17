@@ -24,7 +24,7 @@
     <ClCompile Include="File.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="libs.cpp">
+    <ClCompile Include="Command.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

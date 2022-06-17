@@ -139,8 +139,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Command.cpp" />
     <ClCompile Include="File.cpp" />
-    <ClCompile Include="libs.cpp" />
     <ClCompile Include="Menu.cpp" />
     <ClCompile Include="praktik2.cpp" />
   </ItemGroup>

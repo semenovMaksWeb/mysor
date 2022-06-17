@@ -1,6 +1,6 @@
-﻿#include <windows.h>
+﻿#define _CRT_SECURE_NO_DEPRECATE
+#include <windows.h>
 #include <string>
-#define _CRT_SECURE_NO_DEPRECATE
 #include <string>
 #include <iostream>
 #include <fstream>
@@ -13,7 +13,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include<cstdio>
-#include "libs.cpp"
 using namespace std;
 
 static struct Reis

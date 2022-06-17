@@ -1,0 +1,11 @@
+﻿  2.cpp
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2-new\2\2\File.cpp(85,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2-new\2\2\File.cpp(87,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  File.cpp
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2-new\2\2\File.cpp(85,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2-new\2\2\File.cpp(87,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Menu.cpp
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2-new\2\2\File.cpp(85,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2-new\2\2\File.cpp(87,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
+  2.vcxproj -> C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2-new\2\x64\Debug\2.exe

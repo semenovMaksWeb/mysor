@@ -1,8 +1,35 @@
 #include <windows.h>
 #include <iostream>
 #include "File.cpp"
+#include <regex>
+#include "Command.cpp"
 static std::string filename;
 void menuFile();
+void MenuCommand();
+void menuMain();
+
+static void menuType() {
+	std::cout << "1-режим текста\n";
+	std::cout << "2-режим команды\n";
+	std::string index;
+	std::cin >> index;
+	if (index == "1") {
+		menuMain();
+	}
+	else if (index == "2") {
+		MenuCommand();
+	}
+} 
+
+static void MenuCommand() {
+	cin.ignore();
+	std::string command;
+	getline(std::cin, command);
+	CommandCheck(command);
+	MenuCommand();
+}
+
+
 static void menuMain() {
 	system("cls");
 	std::cout << "¬ведите им€ файла:  \n";

@@ -1,15 +1,227 @@
-﻿  File.cpp
-C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(27,2): warning C4091: static : пропускается слева от "Reis", когда ни одна переменная не объявлена
-C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(84,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
-C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(86,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
-  libs.cpp
+﻿  Command.cpp
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(26,2): warning C4091: static : пропускается слева от "Reis", когда ни одна переменная не объявлена
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(83,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(85,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  File.cpp
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(26,2): warning C4091: static : пропускается слева от "Reis", когда ни одна переменная не объявлена
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(83,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(85,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
   Menu.cpp
-C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(27,2): warning C4091: static : пропускается слева от "Reis", когда ни одна переменная не объявлена
-C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(84,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
-C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(86,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(26,2): warning C4091: static : пропускается слева от "Reis", когда ни одна переменная не объявлена
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(83,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(85,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(19,1): error C2011: Reis: переопределение типа "struct"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(27,13): error C2084: функция "Reis readReas(std::string)" уже имеет текст реализации
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(27): message : см. предыдущее определение "readReas"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(27,35): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(27,13): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(28,10): error C2079: "reis" использует не имеющую определения структуру struct "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(47,13): error C2084: функция "void loadFile(std::string)" уже имеет текст реализации
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(47): message : см. предыдущее определение "loadFile"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(59,14): error C2079: "reis" использует не имеющую определения структуру struct "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(60,16): error C2065: readReas: необъявленный идентификатор
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(60,30): error C2568: =: не удается разрешить перегрузку функции
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(60,30): message : может быть "Reis readReas(std::string)"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(67,13): error C2084: функция "void saveFile(std::string)" уже имеет текст реализации
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(67): message : см. предыдущее определение "saveFile"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(71,17): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(74,27): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(74,5): error C2672: "getline": не найдена соответствующая перегруженная функция
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(74,37): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &): требует аргументов: 2, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(81): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(74,37): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(75): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(74,37): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &): требует аргументов: 2, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(69): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(74,37): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(26): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(76,27): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(76,5): error C2672: "getline": не найдена соответствующая перегруженная функция
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(76,38): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &): требует аргументов: 2, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(81): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(76,38): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(75): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(76,38): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &): требует аргументов: 2, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(69): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(76,38): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(26): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(78,27): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(78,5): error C2672: "getline": не найдена соответствующая перегруженная функция
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(78,34): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &): требует аргументов: 2, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(81): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(78,34): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(75): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(78,34): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &): требует аргументов: 2, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(69): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(78,34): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(26): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(80,27): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(80,5): error C2672: "getline": не найдена соответствующая перегруженная функция
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(80,34): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &): требует аргументов: 2, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(81): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(80,34): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(75): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(80,34): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &): требует аргументов: 2, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(69): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(80,34): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(26): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(82,27): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(82,5): error C2672: "getline": не найдена соответствующая перегруженная функция
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(82,33): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &): требует аргументов: 2, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(81): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(82,33): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(75): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(82,33): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &): требует аргументов: 2, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(69): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(82,33): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(26): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(83,29): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(84,26): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(85,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(86,9): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(89,15): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(89,40): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(89,65): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(89,87): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(89,109): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(89,130): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(92,13): error C2084: функция "void filterFile(std::string)" уже имеет текст реализации
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(92): message : см. предыдущее определение "filterFile"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(101,14): error C2079: "reis" использует не имеющую определения структуру struct "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(102,16): error C2065: readReas: необъявленный идентификатор
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(102,30): error C2568: =: не удается разрешить перегрузку функции
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(102,30): message : может быть "Reis readReas(std::string)"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\Command.cpp(27,3): error C2065: loadFile: необъявленный идентификатор
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\Command.cpp(38,3): error C2065: filterFile: необъявленный идентификатор
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\Command.cpp(45,3): error C2065: saveFile: необъявленный идентификатор
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\Menu.cpp(57,3): error C2065: loadFile: необъявленный идентификатор
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\Menu.cpp(61,3): error C2065: saveFile: необъявленный идентификатор
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\Menu.cpp(65,3): error C2065: filterFile: необъявленный идентификатор
   praktik2.cpp
-C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(27,2): warning C4091: static : пропускается слева от "Reis", когда ни одна переменная не объявлена
-C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(84,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
-C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(86,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(26,2): warning C4091: static : пропускается слева от "Reis", когда ни одна переменная не объявлена
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(83,18): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(85,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(19,1): error C2011: Reis: переопределение типа "struct"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(27,13): error C2084: функция "Reis readReas(std::string)" уже имеет текст реализации
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(27): message : см. предыдущее определение "readReas"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(27,35): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(27,13): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(28,10): error C2079: "reis" использует не имеющую определения структуру struct "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(47,13): error C2084: функция "void loadFile(std::string)" уже имеет текст реализации
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(47): message : см. предыдущее определение "loadFile"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(59,14): error C2079: "reis" использует не имеющую определения структуру struct "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(60,16): error C2065: readReas: необъявленный идентификатор
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(60,30): error C2568: =: не удается разрешить перегрузку функции
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(60,30): message : может быть "Reis readReas(std::string)"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(67,13): error C2084: функция "void saveFile(std::string)" уже имеет текст реализации
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(67): message : см. предыдущее определение "saveFile"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(71,17): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(74,27): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(74,5): error C2672: "getline": не найдена соответствующая перегруженная функция
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(74,37): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &): требует аргументов: 2, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(81): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(74,37): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(75): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(74,37): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &): требует аргументов: 2, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(69): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(74,37): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(26): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(76,27): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(76,5): error C2672: "getline": не найдена соответствующая перегруженная функция
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(76,38): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &): требует аргументов: 2, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(81): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(76,38): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(75): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(76,38): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &): требует аргументов: 2, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(69): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(76,38): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(26): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(78,27): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(78,5): error C2672: "getline": не найдена соответствующая перегруженная функция
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(78,34): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &): требует аргументов: 2, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(81): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(78,34): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(75): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(78,34): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &): требует аргументов: 2, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(69): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(78,34): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(26): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(80,27): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(80,5): error C2672: "getline": не найдена соответствующая перегруженная функция
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(80,34): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &): требует аргументов: 2, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(81): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(80,34): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(75): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(80,34): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &): требует аргументов: 2, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(69): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(80,34): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(26): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(82,27): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(82,5): error C2672: "getline": не найдена соответствующая перегруженная функция
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(82,33): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &): требует аргументов: 2, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(81): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(82,33): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(75): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(82,33): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &): требует аргументов: 2, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(69): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(82,33): error C2780: std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem): требует аргументов: 3, имеется: 1
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\string(26): message : см. объявление "std::getline"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(83,29): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(84,26): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(85,18): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(86,9): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(89,15): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(89,40): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(89,65): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(89,87): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(89,109): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(89,130): error C2027: использование неопределенного типа "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(18): message : см. объявление "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(92,13): error C2084: функция "void filterFile(std::string)" уже имеет текст реализации
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(92): message : см. предыдущее определение "filterFile"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(101,14): error C2079: "reis" использует не имеющую определения структуру struct "Reis"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(102,16): error C2065: readReas: необъявленный идентификатор
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(102,30): error C2568: =: не удается разрешить перегрузку функции
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\File.cpp(102,30): message : может быть "Reis readReas(std::string)"
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\Command.cpp(27,3): error C2065: loadFile: необъявленный идентификатор
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\Command.cpp(38,3): error C2065: filterFile: необъявленный идентификатор
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\Command.cpp(45,3): error C2065: saveFile: необъявленный идентификатор
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\Menu.cpp(57,3): error C2065: loadFile: необъявленный идентификатор
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\Menu.cpp(61,3): error C2065: saveFile: необъявленный идентификатор
+C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\praktik2\Menu.cpp(65,3): error C2065: filterFile: необъявленный идентификатор
   Создание кода...
-  praktik2.vcxproj -> C:\Users\maks\Desktop\mysor\mysor\4семестр\ТП\ТП\2\x64\Debug\praktik2.exe
